@@ -1,4 +1,4 @@
-package com.hubberspot.designpattern.creational.factory._functional;
+package com.hubberspot.designpattern.creational.factory._functional_interface;
 
 public class Demo {
     public static void main(String[] args) {

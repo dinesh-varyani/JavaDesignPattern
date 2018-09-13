@@ -1,4 +1,4 @@
-package com.hubberspot.designpattern.creational.factory._functional;
+package com.hubberspot.designpattern.creational.factory._enums;
 
 public class CricketPlayer implements Player {
     @Override
