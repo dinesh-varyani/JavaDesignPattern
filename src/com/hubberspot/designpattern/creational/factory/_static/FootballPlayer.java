@@ -1,4 +1,4 @@
-package com.hubberspot.designpattern.creational.factory_static;
+package com.hubberspot.designpattern.creational.factory._static;
 
 public class FootballPlayer implements Player {
     @Override
