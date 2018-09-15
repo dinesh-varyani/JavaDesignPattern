@@ -1,7 +1,5 @@
 package com.hubberspot.designpattern.creational.staticfactory._enums;
 
-import com.hubberspot.designpattern.creational.staticfactory._enums.PlayerFactory.PlayerType;
-
 public class Demo {
     public static void main(String[] args) {
         Player tennisPlayer = PlayerFactory.createPlayer(PlayerType.TENNIS);

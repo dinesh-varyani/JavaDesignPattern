@@ -1,7 +1,5 @@
 package com.hubberspot.designpattern.creational.staticfactory._custom_functional_interface;
 
-import static com.hubberspot.designpattern.creational.staticfactory._custom_functional_interface.PlayerFactory.PlayerType;
-
 public class Demo {
     public static void main(String[] args) {
         Player tennisPlayer = PlayerFactory.createPlayerFactory(PlayerType.TENNIS)
