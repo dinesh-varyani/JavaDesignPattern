@@ -2,24 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9d341cb-ee34-47a3-a49b-311ae9c3e5fd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/singleton/_cloneable/Demo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/singleton/_cloneable/Employee.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/singleton/_reflection/Employee.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/singleton/_reflection/ReflectionTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/singleton/_serialization/Demo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/singleton/_serialization/Employee.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/singleton/_cloneable/User.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/singleton/_eager_initialization/Employee.java" afterPath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/singleton/_eager_initialization/Employee.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/singleton/_enum_initialization/Demo.java" afterPath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/singleton/_enum_initialization/Demo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/singleton/_enum_initialization/Employee.java" afterPath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/singleton/_enum_initialization/Employee.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/singleton/_lazy_initialization/Demo.java" afterPath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/singleton/_lazy_initialization/Demo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/singleton/_lazy_initialization/Employee.java" afterPath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/singleton/_lazy_initialization/Employee.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/singleton/_static_block_initialization/Employee.java" afterPath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/singleton/_static_block_initialization/Employee.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/singleton/_static_class_initialization/Employee.java" afterPath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/singleton/_static_class_initialization/Employee.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/singleton/_synchronized_block/Demo.java" afterPath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/singleton/_synchronized_block/Demo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/singleton/_synchronized_block/Employee.java" afterPath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/singleton/_synchronized_block/Employee.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/singleton/_synchronized_method/Demo.java" afterPath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/singleton/_synchronized_method/Demo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/singleton/_synchronized_method/Employee.java" afterPath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/singleton/_synchronized_method/Employee.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/singleton/_cloneable/Demo.java" afterPath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/singleton/_cloneable/Demo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/singleton/_cloneable/Employee.java" afterPath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/singleton/_cloneable/Employee.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -80,16 +66,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AccessibleObject.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/lang/reflect/AccessibleObject.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="101" column="32" lean-forward="false" selection-start-line="101" selection-start-column="22" selection-end-line="101" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/singleton/_reflection/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -125,21 +101,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/singleton/_cloneable/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="462">
-              <caret line="23" column="36" lean-forward="false" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+              <caret line="23" column="1" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="23" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Demo.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/singleton/_cloneable/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="5" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="6" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Demo.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/singleton/_cloneable/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="54" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="54" />
+            <state relative-caret-position="44">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -218,6 +204,7 @@
         <option value="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/singleton/_enum_initialization/Employee.java" />
         <option value="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/singleton/_serialization/Demo.java" />
         <option value="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/singleton/_serialization/Employee.java" />
+        <option value="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/singleton/_cloneable/User.java" />
         <option value="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/singleton/_cloneable/Demo.java" />
         <option value="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/singleton/_cloneable/Employee.java" />
       </list>
@@ -457,27 +444,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Employee">
-    <configuration default="false" name="Demo (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.hubberspot.designpattern.creational.singleton._double_checked_locking.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.hubberspot.designpattern.creational.singleton._double_checked_locking.Demo" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Java Design Pattern" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.Demo (3)">
     <configuration default="false" name="ReflectionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -546,6 +513,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.hubberspot.designpattern.creational.singleton._cloneable.Employee" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Java Design Pattern" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Demo (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.hubberspot.designpattern.creational.singleton._cloneable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.hubberspot.designpattern.creational.singleton._cloneable.Demo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -786,19 +773,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Demo (2)" />
-      <item index="1" class="java.lang.String" itemvalue="Application.ReflectionTest" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Demo (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Demo" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Employee" />
+      <item index="0" class="java.lang.String" itemvalue="Application.ReflectionTest" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Demo (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Demo" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Employee" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Demo (3)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Employee" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Demo" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Demo (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.ReflectionTest" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Demo (2)" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Demo (3)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Employee" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Demo" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Demo (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ReflectionTest" />
       </list>
     </recent_temporary>
   </component>
@@ -883,7 +870,14 @@
       <option name="project" value="LOCAL" />
       <updated>1537029997209</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Changes done to implement singleton design pattern">
+      <created>1537111779363</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1537111779363</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -898,7 +892,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.19547658" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.20516963" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41357028" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -931,7 +925,8 @@
     <MESSAGE value="Singleton Design Pattern in different ways." />
     <MESSAGE value="Config files" />
     <MESSAGE value="Changes done to implement static factory" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes done to implement static factory" />
+    <MESSAGE value="Changes done to implement singleton design pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes done to implement singleton design pattern" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -944,13 +939,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/staticfactory/_string/Player.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="1" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/staticfactory/_string/TennisPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
@@ -1079,6 +1067,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-510">
           <caret line="19" column="41" lean-forward="false" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1333,10 +1322,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/singleton/_cloneable/Demo.java">
+    <entry file="file://$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/singleton/_cloneable/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="54" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="54" />
+        <state relative-caret-position="132">
+          <caret line="6" column="5" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="6" selection-end-column="5" />
           <folding />
         </state>
       </provider>
@@ -1344,7 +1333,15 @@
     <entry file="file://$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/singleton/_cloneable/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
-          <caret line="23" column="36" lean-forward="false" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+          <caret line="23" column="1" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="23" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/singleton/_cloneable/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
         </state>
       </provider>
