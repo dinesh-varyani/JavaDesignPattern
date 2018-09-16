@@ -1,4 +1,4 @@
-package com.hubberspot.designpattern.creational.singleton._eager_initialization;
+package com.hubberspot.designpattern.creational.singleton._cloneable;
 
 public class Employee {
     private static final Employee EMPLOYEE = new Employee();
@@ -15,5 +15,12 @@ public class Employee {
         System.out.println("Welcome to ABC Company !!! - " +
                 this.getClass().getSimpleName() + " - " + 
                 this.hashCode());
+    }
+
+    public static void main(String[] args) throws CloneNotSupportedException {
+        Employee employeeOne = Employee.getEmployee();
+        Employee employeeTwo = (Employee) employeeOne.clone();
+        employeeOne.printEmployee();
+        employeeTwo.printEmployee();
     }
 }

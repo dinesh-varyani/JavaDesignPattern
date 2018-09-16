@@ -5,10 +5,12 @@ public class Demo {
         // Compilation error: private constructor
         // Employee employee = new Employee();
 
-        Employee employeeOne = Employee.getEmployee();
-        employeeOne.printEmployee();
-
-        Employee employeeTwo = Employee.getEmployee();
-        employeeTwo.printEmployee();
+        // Code works in multithreaded environment
+        for(int i = 0; i < 10; i++){
+            new Thread(() -> {
+                Employee employee = Employee.getEmployee();
+                employee.printEmployee();
+            }).start();
+        }
     }
 }

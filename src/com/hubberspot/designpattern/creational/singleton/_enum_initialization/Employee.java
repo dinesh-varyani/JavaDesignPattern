@@ -13,6 +13,7 @@ public enum Employee {
 
     public void printEmployee() {
         System.out.println("Welcome to ABC Company !!! - " +
-                this.getClass().getSimpleName() + " - " + this.hashCode());
+                this.getClass().getSimpleName() + " - " +
+                this.hashCode());
     }
 }

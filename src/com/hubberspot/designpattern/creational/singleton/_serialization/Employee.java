@@ -1,6 +1,9 @@
-package com.hubberspot.designpattern.creational.singleton._eager_initialization;
+package com.hubberspot.designpattern.creational.singleton._serialization;
 
-public class Employee {
+import java.io.Serializable;
+
+public class Employee implements Serializable {
+    
     private static final Employee EMPLOYEE = new Employee();
 
     private Employee() {
@@ -8,6 +11,10 @@ public class Employee {
     }
 
     public static Employee getEmployee() {
+        return EMPLOYEE;
+    }
+
+    protected Object readResolve() {
         return EMPLOYEE;
     }
 

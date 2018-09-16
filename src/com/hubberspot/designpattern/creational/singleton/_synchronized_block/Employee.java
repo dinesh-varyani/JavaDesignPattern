@@ -8,11 +8,9 @@ public class Employee {
     }
 
     public static Employee getEmployee() {
-        if(employee == null){ // first check
+        if(employee == null){
             synchronized (Employee.class) {
-                if(employee == null){ // second check
-                    employee = new Employee();
-                }
+                employee = new Employee();
             }
         }
         return employee;
@@ -20,6 +18,7 @@ public class Employee {
 
     public void printEmployee() {
         System.out.println("Welcome to ABC Company !!! - " +
-                this.getClass().getSimpleName() + " - " + this.hashCode());
+                this.getClass().getSimpleName() + " - " + 
+                this.hashCode());
     }
 }

@@ -1,16 +1,6 @@
-package com.hubberspot.designpattern.creational.singleton._static_block_initialization;
+package com.hubberspot.designpattern.creational.singleton._reflection;
 
 public class Employee {
-
-    static {
-        try {
-            employee = new Employee();
-        } catch(Exception e) {
-            throw new RuntimeException("Exception occurred in creating " +
-                    "Employee instance");
-        }
-    }
-
     private static Employee employee;
 
     private Employee() {
@@ -18,6 +8,13 @@ public class Employee {
     }
 
     public static Employee getEmployee() {
+        if(employee == null){ // first check
+            synchronized (Employee.class) {
+                if(employee == null){ // second check
+                    employee = new Employee();
+                }
+            }
+        }
         return employee;
     }
 
