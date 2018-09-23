@@ -1,9 +1,9 @@
 package com.hubberspot.designpattern.creational.builder.normal;
 
 public interface Builder {
-    public void buildFoundation(String foundation);
-    public void buildStructure(String structure);
-    public void buildRoof(String roof);
-    public void buildInterior(String interior);
+    public Builder buildFoundation(String foundation);
+    public Builder buildStructure(String structure);
+    public Builder buildRoof(String roof);
+    public Builder buildInterior(String interior);
     public House getHouse();
 }

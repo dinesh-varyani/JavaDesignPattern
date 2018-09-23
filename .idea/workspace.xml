@@ -2,32 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9d341cb-ee34-47a3-a49b-311ae9c3e5fd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/builder/normal/Builder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/builder/normal/CivilEngineer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/builder/normal/Demo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/builder/normal/House.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/builder/normal/HouseBuilder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/factorymethod/_with_lambdas/Demo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/factorymethod/_with_lambdas/DisplayMessageService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/factorymethod/_with_lambdas/JsonMessage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/factorymethod/_with_lambdas/Message.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/factorymethod/_with_lambdas/MessageCreator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/factorymethod/_with_lambdas/TextMessage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/factorymethod/_with_lambdas/XmlMessage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/factorymethod/_without_lambdas/Demo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/factorymethod/_without_lambdas/DisplayMessageService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/factorymethod/_without_lambdas/JsonMessage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/factorymethod/_without_lambdas/JsonMessageCreator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/factorymethod/_without_lambdas/Message.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/factorymethod/_without_lambdas/MessageCreator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/factorymethod/_without_lambdas/MessageFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/factorymethod/_without_lambdas/TextMessage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/factorymethod/_without_lambdas/TextMessageCreator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/factorymethod/_without_lambdas/XmlMessage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/factorymethod/_without_lambdas/XmlMessageCreator.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/builder/_static_inner_class/Demo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/builder/_static_inner_class/RegistrationForm.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/builder/normal/Builder.java" afterPath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/builder/normal/Builder.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/builder/normal/CivilEngineer.java" afterPath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/builder/normal/CivilEngineer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/builder/normal/HouseBuilder.java" afterPath="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/builder/normal/HouseBuilder.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,15 +26,9 @@
       <file leaf-file-name="House.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/builder/normal/House.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
+            <state relative-caret-position="418">
               <caret line="27" column="30" lean-forward="false" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
-              <folding>
-                <element signature="e#251#252#0" expanded="true" />
-                <element signature="e#295#296#0" expanded="true" />
-                <marker date="1537650540000" expanded="true" signature="503:514" ph=" { " />
-                <marker date="1537650540000" expanded="true" signature="539:545" ph=" }" />
-                <marker date="1537650540000" expanded="true" signature="590:851" ph="{...}" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -62,8 +36,8 @@
       <file leaf-file-name="Builder.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/builder/normal/Builder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            <state relative-caret-position="132">
+              <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -72,18 +46,44 @@
       <file leaf-file-name="HouseBuilder.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/builder/normal/HouseBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="-126">
+              <caret line="12" column="20" lean-forward="false" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+              <folding>
+                <marker date="1537703878000" expanded="false" signature="1038:1049" ph=" { " />
+                <marker date="1537703878000" expanded="false" signature="1062:1068" ph=" }" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Demo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/builder/normal/Demo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Demo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/builder/normal/Demo.java">
+      <file leaf-file-name="RegistrationForm.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/builder/_static_inner_class/RegistrationForm.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            <state relative-caret-position="424">
+              <caret line="118" column="19" lean-forward="false" selection-start-line="118" selection-start-column="19" selection-end-line="118" selection-end-column="19" />
+              <folding>
+                <element signature="e#2458#2459#0" expanded="true" />
+                <element signature="e#2515#2516#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Demo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/builder/_static_inner_class/Demo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -92,12 +92,9 @@
       <file leaf-file-name="CivilEngineer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/builder/normal/CivilEngineer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="21" column="45" lean-forward="false" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
-              <folding>
-                <element signature="e#173#174#0" expanded="true" />
-                <element signature="e#211#212#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="446">
+              <caret line="23" column="9" lean-forward="false" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -138,8 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/factorymethod/message/Message.java" />
-        <option value="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/factorymethod/message/JSONMessage.java" />
         <option value="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/factorymethod/message/TextMessage.java" />
         <option value="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/factorymethod/NYStylePepperoniPizza.java" />
         <option value="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/factorymethod/ChicagoPizzaStore.java" />
@@ -184,18 +179,20 @@
         <option value="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/builder/normal/WoodenHouseBuilder.java" />
         <option value="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/builder/normal/ConcreteHouseBuilder.java" />
         <option value="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/builder/normal/ConcreteBuilder.java" />
-        <option value="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/builder/normal/Builder.java" />
-        <option value="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/builder/normal/HouseBuilder.java" />
         <option value="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/builder/normal/House.java" />
         <option value="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/builder/normal/Demo.java" />
+        <option value="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/builder/normal/Builder.java" />
+        <option value="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/builder/normal/HouseBuilder.java" />
         <option value="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/builder/normal/CivilEngineer.java" />
+        <option value="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/builder/_static_inner_class/Demo.java" />
+        <option value="$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/builder/_static_inner_class/RegistrationForm.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="711" />
+    <option name="height" value="772" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -215,6 +212,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -263,15 +262,39 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="normal" />
+              <option name="myItemId" value="builder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java Design Pattern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="creational" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="builder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_static_inner_class" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -310,7 +333,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo (2)">
+  <component name="RunManager" selected="Application.Demo (4)">
     <configuration default="false" name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -319,26 +342,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.hubberspot.designpattern.creational.factorymethod.Demo" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Java Design Pattern" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Demo (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.hubberspot.designpattern.creational.singleton._cloneable.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.hubberspot.designpattern.creational.singleton._cloneable.Demo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -399,6 +402,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.hubberspot.designpattern.creational.builder.normal.Demo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Java Design Pattern" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Demo (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.hubberspot.designpattern.creational.builder._static_inner_class.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.hubberspot.designpattern.creational.builder._static_inner_class.Demo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -640,18 +663,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.Demo" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Demo (3)" />
-      <item index="2" class="java.lang.String" itemvalue="Application.PizzaTestDrive" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Demo (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Demo (2)" />
+      <item index="1" class="java.lang.String" itemvalue="Application.PizzaTestDrive" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Demo (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Demo (2)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Demo (4)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Demo (2)" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Demo (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Demo" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Demo (4)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Demo (2)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Demo (1)" />
         <item index="3" class="java.lang.String" itemvalue="Application.Demo" />
-        <item index="4" class="java.lang.String" itemvalue="Application.PizzaTestDrive" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Demo" />
       </list>
     </recent_temporary>
   </component>
@@ -753,11 +776,18 @@
       <option name="project" value="LOCAL" />
       <updated>1537128440463</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Changes done to implement factory method and builder design pattern">
+      <created>1537651720366</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1537651720366</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="711" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="772" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -768,13 +798,13 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.39095315" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41357028" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.33382353" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4132353" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2985437" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30339807" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -802,11 +832,12 @@
     <MESSAGE value="Config files" />
     <MESSAGE value="Changes done to implement static factory" />
     <MESSAGE value="Changes done to implement singleton design pattern" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes done to implement singleton design pattern" />
+    <MESSAGE value="Changes done to implement factory method and builder design pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes done to implement factory method and builder design pattern" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <option name="time" value="5" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -815,8 +846,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/factorymethod/LondonStyleCheesePizza.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/factorymethod/PizzaTestDrive.java" />
     <entry file="file://$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/factorymethod/ManchesterStyleVeggiePizza.java" />
     <entry file="file://$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/factorymethod/DependentPizzaStore.java" />
     <entry file="file://$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/factorymethod/Pizza.java" />
@@ -1000,52 +1029,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/builder/normal/HouseBuilder.java">
+    <entry file="file://$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/builder/normal/Builder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="132">
+          <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/builder/normal/House.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
+        <state relative-caret-position="418">
           <caret line="27" column="30" lean-forward="false" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/builder/normal/HouseBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-126">
+          <caret line="12" column="20" lean-forward="false" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
           <folding>
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#295#296#0" expanded="true" />
-            <marker date="1537650540000" expanded="true" signature="503:514" ph=" { " />
-            <marker date="1537650540000" expanded="true" signature="539:545" ph=" }" />
-            <marker date="1537650540000" expanded="true" signature="590:851" ph="{...}" />
+            <marker date="1537703878000" expanded="false" signature="1038:1049" ph=" { " />
+            <marker date="1537703878000" expanded="false" signature="1062:1068" ph=" }" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/builder/normal/CivilEngineer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="21" column="45" lean-forward="false" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
-          <folding>
-            <element signature="e#173#174#0" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/builder/normal/Builder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="446">
+          <caret line="23" column="9" lean-forward="false" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/builder/normal/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        <state relative-caret-position="352">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/builder/_static_inner_class/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hubberspot/designpattern/creational/builder/_static_inner_class/RegistrationForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="118" column="19" lean-forward="false" selection-start-line="118" selection-start-column="19" selection-end-line="118" selection-end-column="19" />
+          <folding>
+            <element signature="e#2458#2459#0" expanded="true" />
+            <element signature="e#2515#2516#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
